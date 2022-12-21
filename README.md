@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshvardhan-sharma1
 - 👀 I’m interested in collaborating to create projects
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m learning everyday 
+- 💞️ I’m looking to collaborate on anything new and interesting
 - 📫 How to reach me ->harshanand002@gmail.com
 
 <!---

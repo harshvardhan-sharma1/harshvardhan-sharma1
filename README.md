@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborating to create projects
 - 🌱 I’m learning everyday 
 - 💞️ I’m looking to collaborate on anything new and interesting
-- 📫 How to reach me ->harshanand002@gmail.com
+- 📫 How to reach me ->harshanand002 [at] gmail [dot] com
 
 <!---
 harshvardhan-sharma1/harshvardhan-sharma1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
